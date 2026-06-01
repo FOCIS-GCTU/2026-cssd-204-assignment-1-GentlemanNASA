@@ -5,7 +5,7 @@
 # Name: Allotey Nii Samuel Adotei
 # STUDENT ID: 2425401228
 # Email: niiodon6@gmail.com
-# Grader: Carolyn
+# Grader: Augustus
 #
 # On my honor, Allotey Nii Samuel Adotei, this programming assignment is my own work
 # and I have not provided this code to any other student.
